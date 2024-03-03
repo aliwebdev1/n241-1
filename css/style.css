@@ -1,0 +1,35 @@
+h1 {
+    color: burlywood;
+    font-size: 60px;
+    line-height: 0.8;
+
+}
+
+h4 {
+
+    font-size: 40px;
+    color: burlywood;
+    line-height: 0;
+
+}
+
+img {
+    height: 1000px;
+    width: 100%;
+    object-fit: cover;
+}
+
+p {
+    text-align: justify;
+    padding: 50px 40px 60px 120px;
+
+}
+
+#one {
+    background-color: blueviolet;
+}
+
+.two {
+    background-color: blue;
+    text-align: center;
+}
